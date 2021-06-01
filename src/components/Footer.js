@@ -12,6 +12,9 @@ function Footer() {
                             className="rounded-circle z-depth-0" alt="avatar image" height="55" width="65" />
                         <a className="btn btn-outline-light btn-social mx-1" href="https://vk.com/id173450797"><i
                             className="fab fa-fw fa-vk"/></a>
+                        <a className="btn btn-outline-light btn-social mx-1"
+                           href="https://github.com/pKilba"><i
+                            className="fab fa-fw fa-git"/></a>
                     </div>
 
                     <div className="col-lg-4 mb-5 mb-lg-0">
@@ -20,6 +23,9 @@ function Footer() {
                              className="rounded-circle z-depth-0" alt="avatar image" height="55" width="65"/>
                         <a className="btn btn-outline-light btn-social mx-1" href="https://vk.com/evgeshashadura"><i
                             className="fab fa-fw fa-vk"/></a>
+                        <a className="btn btn-outline-light btn-social mx-1"
+                           href="https://github.com/Evgenij009"><i
+                            className="fab fa-fw fa-git"/></a>
                     </div>
 
                     <div className="col-lg-4 mb-5 mb-lg-0">
@@ -28,6 +34,9 @@ function Footer() {
                              className="rounded-circle z-depth-0" alt="avatar image" height="55" width="65"/>
                         <a className="btn btn-outline-light btn-social mx-1" href="https://vk.com/one.sapega.nine"><i
                             className="fab fa-fw fa-vk"/></a>
+                        <a className="btn btn-outline-light btn-social mx-1"
+                           href="https://github.com/pKilba"><i
+                            className="fab fa-fw fa-git"/></a>
                     </div>
                 </div>
             </div>
