@@ -44,7 +44,7 @@ function Navigation() {
                         </li>
                         <li className="nav-item mx-0 mx-lg-1">
                             <Link className="nav-link py-3 px-0 px-lg-3 rounded"
-                                  to="/architects">{t("navbar.architects")}</Link>
+                                  to="/filmmakers">{t("navbar.filmmakers")}</Link>
                         </li>
                         <li className="nav-item mx-0 mx-lg-1">
                             <DropdownLanguage/>

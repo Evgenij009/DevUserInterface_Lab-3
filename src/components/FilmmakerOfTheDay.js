@@ -7,7 +7,7 @@ export default function FilmmakerOfTheDay(props) {
 
     const {t, getCurrLang} = useLanguage();
 
-    const [architect, setPoet] = useState(null);
+    const [filmmaker, setPoet] = useState(null);
 
     const [dbLoaded, dbSearchPoet] = useJsonDB("prevDescription.json");
 
@@ -30,16 +30,16 @@ export default function FilmmakerOfTheDay(props) {
             <div id={props.id} style={props.style}
                  className="container d-flex flex-column justify-content-center align-items-center mt-4 mb-4">
                 {
-                    dbLoaded === true && architect !== null ? (
+                    dbLoaded === true && filmmaker !== null ? (
                         <>
-                            <h3>{t("landing.architectOfTheDay")}</h3>
+                            <h3>{t("landing.filmmakerOfTheDay")}</h3>
                             <div className="card" style={{width: 18 + "rem", height: 100 + "%"}}>
-                                <img src={architect.photoUrl} className="card-img-top" alt="..."/>
+                                <img src={filmmaker.photoUrl} className="card-img-top" alt="..."/>
                                 <div className="card-body">
-                                    <h5 className="card-title">{architect.name[getCurrLang()]}</h5>
-                                    <p className="card-text">{architect.description[getCurrLang()]}</p>
-                                    <Link to={"/architects/" + architect.id}
-                                          className="align-self-end btn btn-primary">{t("landing.architectLink")}</Link>
+                                    <h5 className="card-title">{filmmaker.name[getCurrLang()]}</h5>
+                                    <p className="card-text">{filmmaker.description[getCurrLang()]}</p>
+                                    <Link to={"/filmmakers/" + filmmaker.id}
+                                          className="align-self-end btn btn-primary">{t("landing.filmmakerLink")}</Link>
                                 </div>
                             </div>
                         </>

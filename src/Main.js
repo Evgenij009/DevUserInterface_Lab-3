@@ -8,7 +8,7 @@ function Main() {
         <main>
             <Switch>
                 <Route exact path='/' component={Home}/>
-                <Route path='/architects/:id?' component={Filmmaker}/>
+                <Route path='/filmmakers/:id?' component={Filmmaker}/>
             </Switch>
         </main>
     );

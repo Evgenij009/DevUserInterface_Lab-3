@@ -9,17 +9,17 @@ function FilmmakersList(props) {
     if (props.poets !== null && props.poets.length > 0) {
         let output = [];
         let i = 0;
-        props.poets.forEach(architect => {
+        props.poets.forEach(filmmaker => {
             output.push(
                 <div className="col-sm-4 mt-2 mb-2" key={i++}>
                     <div className="card" style={{width: 18 + "rem", height: 100 + "%"}}>
-                        <img src={architect.photoUrl} className="card-img-top" alt="..."/>
+                        <img src={filmmaker.photoUrl} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <h5 className="card-title">{architect.name[getCurrLang()]}</h5>
-                            <p className="card-text">{architect.description[getCurrLang()]}</p>
+                            <h5 className="card-title">{filmmaker.name[getCurrLang()]}</h5>
+                            <p className="card-text">{filmmaker.description[getCurrLang()]}</p>
                             <div className="container">
-                                <Link to={"/architects/" + architect.id}
-                                      className="align-self-end btn btn-primary">{t("landing.architectLink")}</Link>
+                                <Link to={"/filmmakers/" + filmmaker.id}
+                                      className="align-self-end btn btn-primary">{t("landing.filmmakerLink")}</Link>
                             </div>
                         </div>
                     </div>
