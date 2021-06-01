@@ -1,6 +1,6 @@
 {
     "navbar": {
-        "architects": "Filmmakers",
+        "filmmakers": "Filmmakers",
         "desc": "Site Description",
         "daily": "Filmmaker of the day",
         "devs": "Developers"
@@ -9,8 +9,8 @@
         "about": "ABOUT SITE",
         "description": "A filmmaker is one of the main professions in the art of cinema, a leading participant in the process of making a film, responsible for the artistic, fictional and stage components of the picture. There are three directions of filmmaking: fiction, documentary and animation. The first came from director Georges Méliès.",
         "button": "List of Filmmakers",
-        "architectLink": "Filmmaker page",
-        "architectOfTheDay": "Filmmaker of the day",
+        "filmmakerLink": "Filmmaker page",
+        "filmmakerOfTheDay": "Filmmaker of the day",
         "search": "Search"
     }
 }
