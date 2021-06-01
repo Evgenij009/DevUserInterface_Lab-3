@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 function Footer() {
     return (
-        <footer className="footer text-center bg-success" id="contact">
+        <footer className="footer text-center bg-info" id="contact">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-4 mb-5 mb-lg-0">

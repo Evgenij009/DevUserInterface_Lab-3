@@ -5,7 +5,7 @@ import useLanguage from "../hooks/Language";
 function AboutSection() {
     const {t} = useLanguage();
     return (
-        <section className="page-section bg-danger text-white mt-5"  id="about">
+        <section className="page-section bg-secondary text-white mt-5"  id="about">
             <div className="container1">
                 <h2 className="page-section-heading text-center text-uppercase text-white">Description</h2>
                 <div className="divider-custom divider-light">
