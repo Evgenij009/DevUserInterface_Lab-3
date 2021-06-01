@@ -28,7 +28,7 @@ function Navigation() {
 
     <nav className="navbar navbar-expand-lg bg-info text-uppercase fixed-top" id="mainNav">
         <div className="container">
-            <a className="navbar-brand" href="/lab3">Filmmakers</a>
+            <Link className="navbar-brand" to="/">Filmmakers</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                     aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
