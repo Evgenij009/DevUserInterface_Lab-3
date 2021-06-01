@@ -2,8 +2,8 @@
     "data": [{
             "id": 0,
             "name": {
-                "ru": "Владимир Александрович Орлов",
-                "en": "Vladimir Alexandrovich Orlov"
+                "ru": "Владимир Александрович Орлов - 1938",
+                "en": "Vladimir Alexandrovich Orlov - 1938"
             },
             "dob": "06.01.1938",
             "dod": "Наше время",
@@ -16,8 +16,8 @@
         {
             "id": 1,
             "name": {
-                "ru": "Иосиф Васильевич Бахар",
-                "en": "Joseph Vasilievich Bakhar"
+                "ru": "Иосиф Васильевич Бахар - 1903",
+                "en": "Joseph Vasilievich Bakhar - 1903"
             },
             "dob": "26.01.1903",
             "dod": "1937",
@@ -30,10 +30,10 @@
         {
             "id": 2,
             "name": {
-                "ru": "Александр Ильич Гинзбург",
-                "en": "Alexander Ilyich Ginzburg"
+                "ru": "Александр Ильич Гинзбург - 1907",
+                "en": "Alexander Ilyich Ginzburg - 1907"
             },
-            "dob": "01.03.1907",
+            "dob": " 1907 ",
             "dod": "10.03.1972",
             "description": {
                 "ru": "Белорусский и советский кинорежиссер и оператор",
@@ -44,8 +44,8 @@
         {
             "id": 3,
             "name": {
-                "ru": "Петр Савельевич Василевский",
-                "en": "Petr Savelievich Vasilevsky"
+                "ru": "Петр Савельевич Василевский - 1922",
+                "en": "Petr Savelievich Vasilevsky - 1922"
             },
             "dob": "15.05.1922",
             "dod": "24.02.2002",
@@ -62,8 +62,8 @@
                 "en": "Alexander Zalmanovich Gutkovich (December 20, 1920, Askerki, Beshenkovichi district - 1989) - Belarusian playwright, director, Honored Artist of the BSSR."
             },
             "name": {
-                "ru": "Александр Залманович Гуткович",
-                "en": "Alexander Zalmanovich Gutkovich"
+                "ru": "Александр Залманович Гуткович - 1920",
+                "en": "Alexander Zalmanovich Gutkovich - 1920"
             },
             "dob": "1920",
             "dod": "1989",
@@ -80,8 +80,8 @@
                 "en": "Iosif Grigorievich Langbard (January 6, 1882, Belsk, Grodno province, Russian Empire - January 3, 1951, Leningrad, RSFSR, USSR) - Belarusian Soviet кинорежиссёр, Honored Art Worker of the Belarusian SSR (1934), winner of the Grand Prix at the World Exhibition in Paris, 1937."
             },
             "name": {
-                "ru": "Иосиф Григорьевич Лангбард",
-                "en": "Joseph G. Langbard"
+                "ru": "Иосиф Григорьевич Лангбард - 1882",
+                "en": "Joseph G. Langbard - 1882"
             },
             "dob": "06.01.1882",
             "dod": "03.01.1951",
