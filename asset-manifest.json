@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/lab3/static/css/main.58afe91c.chunk.css",
-    "main.js": "/lab3/static/js/main.c67c6208.chunk.js",
-    "main.js.map": "/lab3/static/js/main.c67c6208.chunk.js.map",
-    "runtime-main.js": "/lab3/static/js/runtime-main.51919c5c.js",
-    "runtime-main.js.map": "/lab3/static/js/runtime-main.51919c5c.js.map",
-    "static/css/2.72c483b3.chunk.css": "/lab3/static/css/2.72c483b3.chunk.css",
-    "static/js/2.6b09a989.chunk.js": "/lab3/static/js/2.6b09a989.chunk.js",
-    "static/js/2.6b09a989.chunk.js.map": "/lab3/static/js/2.6b09a989.chunk.js.map",
-    "index.html": "/lab3/index.html",
-    "static/css/2.72c483b3.chunk.css.map": "/lab3/static/css/2.72c483b3.chunk.css.map",
-    "static/css/main.58afe91c.chunk.css.map": "/lab3/static/css/main.58afe91c.chunk.css.map",
-    "static/js/2.6b09a989.chunk.js.LICENSE.txt": "/lab3/static/js/2.6b09a989.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "/lab3/static/media/getFetch.582d29c4.cjs"
+    "main.css": "/DevUserInterface_Lab-3/static/css/main.58afe91c.chunk.css",
+    "main.js": "/DevUserInterface_Lab-3/static/js/main.f063a05a.chunk.js",
+    "main.js.map": "/DevUserInterface_Lab-3/static/js/main.f063a05a.chunk.js.map",
+    "runtime-main.js": "/DevUserInterface_Lab-3/static/js/runtime-main.022807f6.js",
+    "runtime-main.js.map": "/DevUserInterface_Lab-3/static/js/runtime-main.022807f6.js.map",
+    "static/css/2.72c483b3.chunk.css": "/DevUserInterface_Lab-3/static/css/2.72c483b3.chunk.css",
+    "static/js/2.6b09a989.chunk.js": "/DevUserInterface_Lab-3/static/js/2.6b09a989.chunk.js",
+    "static/js/2.6b09a989.chunk.js.map": "/DevUserInterface_Lab-3/static/js/2.6b09a989.chunk.js.map",
+    "index.html": "/DevUserInterface_Lab-3/index.html",
+    "static/css/2.72c483b3.chunk.css.map": "/DevUserInterface_Lab-3/static/css/2.72c483b3.chunk.css.map",
+    "static/css/main.58afe91c.chunk.css.map": "/DevUserInterface_Lab-3/static/css/main.58afe91c.chunk.css.map",
+    "static/js/2.6b09a989.chunk.js.LICENSE.txt": "/DevUserInterface_Lab-3/static/js/2.6b09a989.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/DevUserInterface_Lab-3/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.51919c5c.js",
+    "static/js/runtime-main.022807f6.js",
     "static/css/2.72c483b3.chunk.css",
     "static/js/2.6b09a989.chunk.js",
     "static/css/main.58afe91c.chunk.css",
-    "static/js/main.c67c6208.chunk.js"
+    "static/js/main.f063a05a.chunk.js"
   ]
 }
